@@ -1,1 +1,1 @@
-# [Material Dashboard Angular - Free Bootstrap Material Design Admin]
+# [Material Dashboard Angular - Bootstrap Material Design Admin]
